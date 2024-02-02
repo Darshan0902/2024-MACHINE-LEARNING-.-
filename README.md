@@ -36,8 +36,6 @@ errors for the entire group. MAE can also be referred as L1
 ### 3) Mean Squared Error (MSE):
 
 ```
-:
-
 The average squared difference between the estimated values and the actual
 value. MSE is a risk function, corresponding to the expected value of the 
 squared error loss. The fact that MSE is almost always strictly positive 
