@@ -1,5 +1,8 @@
 # _Airbnb Listings Analysis in Austin, Texas:_
 
+You can read the blog I wrote on the code using the below link : 
+https://medium.com/@prabhudarshan09/geospatial-analysis-python-libraries-included-3632a90f820d
+
 ## 1) **Project Description:**
 This project focuses on analyzing Airbnb listings in Austin, Texas, to gain insights into rental trends, pricing dynamics, and spatial distribution of properties. The dataset used for analysis contains information about various aspects of Airbnb listings, including property details, host information, pricing, and location coordinates.
 
